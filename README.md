@@ -17,5 +17,5 @@ Sign up at [Hugging Face](https://huggingface.co/).
 ### 2. Generate an Access Token
 Log in, go to [Settings > Access Tokens](https://huggingface.co/settings/tokens), create a token, and save it securely.
 
-### Run  the code.
+### Run  the code in your jupyter notebook.
 
